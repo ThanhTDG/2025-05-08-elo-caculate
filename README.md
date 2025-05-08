@@ -1,1 +1,31 @@
-Elo rating system
+# Getting Started with Create React App
+
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+// lafm gi
+chia thanh cac tab
+click vao mot tran xem duoc thong tin chi tiet tran dau
+click vao user xem duoc thong tin mot user
+hien thi xep hang
+hien thi 100 tran gan nhat
+match system
+xep hang if bang thi xep theo date?
+lay ra 
+elo
+nguoi choi
+tran dau gan nhat
+Thuận thực tế mà làm ?
+
+
+
