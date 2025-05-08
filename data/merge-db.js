@@ -13,6 +13,6 @@ try {
 
 const db = { users, matches, teams };
 
-fs.writeFileSync('db.json', JSON.stringify(db, null, 2));
+fs.writeFileSync('./data/db.json', JSON.stringify(db, null, 2));
 console.log(db)
 console.log('✅ Merged db.json created!');
