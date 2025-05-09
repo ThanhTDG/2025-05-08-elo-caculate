@@ -1,0 +1,34 @@
+Thông số của một trận
+match{
+    id:
+    team[]
+    match_time
+    MVP match
+}
+
+
+team {
+    player[]
+    mvp team
+    // thêm một số tăng dần => nếu team đó thắng là 1
+    other statt
+}
+
+
+một player trong trận đấu
+id
+idplayer
+idmatch
+team = 1
+Kill
+Dead
+Assist
+Dame deal
+taken
+Object Damage
+deltaEXP 
+Creep
+gold
+minute
+Tower destroy
+time play
