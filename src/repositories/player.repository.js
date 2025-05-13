@@ -1,35 +1,25 @@
-import ApiConfig from '../config/api.config.js';
-class PlayerRepository {
-    static async getAll() {
-        console.log(ApiConfig.getAllPlayers())
-        const res = await fetch(ApiConfig.getAllPlayers())
-        if (!res.ok) {
-            throw new Error('Error fetching players');
-        }
-        return await res.json();
-    }
-    static async getById(id) {
-        const res = await fetch(ApiConfig.getPlayerById(id))
-        if (!res.ok) {
-            throw new Error('Error fetching player');
-        }
-        return await res.json();
-    }
-    static async postPlayer(player) {
-        const res = await fetch(ApiConfig.getAllPlayers(), {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(player)
-        })
-        if (!res.ok) {
-            throw new Error('Error creating player');
-        }
-        return await res.json();
-    }
-    
+import ApiConfig from "../config/api.config.js";
+import FetchBase from "./fetch-base.js";
 
+class PlayerRepository extends FetchBase {
+	static async getAll() {
+		const url = ApiConfig.playersEndPoint();
+		return await this.get(url);
+	}
+
+	static async getById(id) {
+		const url = ApiConfig.getPlayerById(id);
+		return await this.get(url);
+	}
+
+	static async postPlayers(players) {
+		const url = ApiConfig.playersEndPoint();
+		return this.post(url, players);
+	}
+	static async putPlayers(id, player) {
+		const url = ApiConfig.getPlayerById(id);
+		return this.put(url, player);
+	}
 }
 
-export default PlayerRepository
+export default PlayerRepository;

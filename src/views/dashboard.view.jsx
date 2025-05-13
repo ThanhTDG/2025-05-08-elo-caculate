@@ -1,45 +1,79 @@
-import React, { useState } from 'react';
-import EloTableComponent from './components/elo-table.component';
-import players_data from '../fake_Data/FakeData';
-import './css/dashboard.css';
-import PaginationComponent from './components/pagniation.component';
-import useDataFetcher from '../hook/userDataFetcher';
-import PlayerController from '../controllers/player.controller';
+import React, { useState } from "react";
+import EloTableComponent from "./components/elo-table.component";
+import "./css/dashboard.css";
+import PaginationComponent from "./components/pagniation.component";
+import useDataFetcher from "../hook/userDataFetcher";
+import PlayerController from "../controllers/player.controller";
+import LoadingIndicator from "./components/loading-indicator.component";
+import MatchController from "../controllers/match.controller";
 
 const NAME_DASHBOARD = "Bảng xếp hạng Elo";
 
-
+const itemsPerPage = 20;
 export default function DashboardView() {
-    const [currentPage, setCurrentPage] = useState(1);
-    const itemsPerPage = 20;
-    const { data: players, loadding, error } = useDataFetcher(PlayerController.fetchAllPlayers)
-    if (loadding) {
-        return <div>Loading...</div>;
-    }
-    if (error) {
-        console.log(error)
-        return <div>Error: Lỗi hệ thống</div>;
-    }
-    const handlePageChange = (pageNumber) => {
-        setCurrentPage(pageNumber);
-    };
+	const {
+		data: players,
+		loading: loadingPlayers,
+		error: errorPlayers,
+	} = useDataFetcher(PlayerController.fetchAllPlayers);
 
-    const totalPages = Math.ceil(players.length / itemsPerPage);
+	const [state, setCurrentPage] = useState({
+		players: [],
+		loading: false,
+		error: null,
+		currentPage: 1,
+	});
+	const updateState = (key, value) => {
+		setCurrentPage((prevState) => ({
+			...prevState,
+			[key]: value,
+		}));
+	};
 
-    return (
-        <div className="dashboard-container">
-            <div className='dashboard-name'>{NAME_DASHBOARD}</div>
-            <PaginationComponent
-                currentPage={currentPage}
-                totalPages={totalPages}
-                onPageChange={handlePageChange}
-            />
-            <EloTableComponent
-                players={players}
-                currentPage={currentPage}
-                itemsPerPage={itemsPerPage}
-            />
+	const handlePageChange = (pageNumber) => {
+		updateState("currentPage", pageNumber);
+	};
+	const handleAddMatch = () => {
+		updateState("loading", true);
+		MatchController.createRandomMatches(10)
+			.then(() => {
+				updateState("loading", false);
+			})
+			.catch((error) => {
+				console.error("Error creating players:", error);
+			})
+			.finally(() => {
+				updateState("loading", false);
+			});
+	};
 
-        </div>
-    );
+	if (loadingPlayers || state.loading) {
+		return <LoadingIndicator />;
+	}
+
+	if (errorPlayers) {
+		console.error("Error fetching players:", errorPlayers);
+		return <div>Error: Lỗi hệ thống</div>;
+	}
+
+	const totalPages = Math.ceil(players.length / 20);
+
+	return (
+		<div className="dashboard-container">
+			<div className="dashboard-function">
+				<button onClick={handleAddMatch}>{"RandomMatch"}</button>
+			</div>
+			<div className="dashboard-name">{NAME_DASHBOARD}</div>
+			<PaginationComponent
+				currentPage={state.currentPage}
+				totalPages={totalPages}
+				onPageChange={handlePageChange}
+			/>
+			<EloTableComponent
+				players={players}
+				currentPage={state.currentPage}
+				itemsPerPage={itemsPerPage}
+			/>
+		</div>
+	);
 }

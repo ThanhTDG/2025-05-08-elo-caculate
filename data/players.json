@@ -1,0 +1,902 @@
+[
+    {
+        "id": "83dd486a-85bd-485e-8b07-0a51f12b3ea7",
+        "name": "Giovanni Herman",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "d65e959e-63ac-4e0e-8562-b0fe4df9ff41",
+        "name": "Zahir Boyle",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "5ed1564a-d6b7-451a-9dac-5cf3805defc6",
+        "name": "Nola Graham",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "4fb066f1-6bbe-42e9-9e70-aedd08a89020",
+        "name": "Aliya Bradley",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "a3eb8a8f-c64e-4855-af23-07b72940096e",
+        "name": "Richard Ashley",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "bd9de0ba-d6fd-4131-be15-62c0f5ddbea5",
+        "name": "Solomon Pineda",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "eec33980-3879-413a-8fce-023ccbc609e8",
+        "name": "Khalani Palacios",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "3c08ddbc-4bde-462b-8b1a-5a0f66cc677b",
+        "name": "const nameList = Jaylee Barber",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "d9fe4d15-1bb8-4899-a443-6b386fedf1c1",
+        "name": "Thaddeus Acevedo",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "5a9bb080-f4bf-4650-b5b2-c9235eae9f49",
+        "name": "Ashlynn Maldonado",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "469d1242-6874-4f2f-8bb9-5cced6a37c74",
+        "name": "Javier Duffy",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "c270ffe0-340c-4b4c-bb31-975452bd297a",
+        "name": "Addisyn Craig",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "a473fb75-ae79-438e-8f00-e6d4161f054d",
+        "name": "Odin Guzman",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "822545a0-436b-47d1-8798-4ecf58653a02",
+        "name": "Ashley Drake",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "6029ab47-8fae-4eda-88dc-da5a86e012d2",
+        "name": "Jalen Davenport",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "6c4561f2-c3a3-4f33-b9b0-7f232c11d725",
+        "name": "Adrianna Huber",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "aab0d759-c5f1-4b09-9bbe-b325f30d8993",
+        "name": "Paulina Booth",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "52f5e5b7-2181-4aa2-bb46-8da3d1f174c7",
+        "name": "Mac Schultz",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "fb95e768-f41b-461b-86cb-f38dc2f1bebe",
+        "name": "Chaim Lloyd",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "8fb1181a-ea6f-4f54-b41f-4abfc7defaac",
+        "name": "Briella Jefferson",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "60915274-d6e7-428e-a220-066c65ce4301",
+        "name": "Raylan Hancock",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "6fcd177c-8a75-4121-b415-0aa0b0118aca",
+        "name": "Katelyn Rivas",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "55ca8790-533a-4256-9ada-2e7bad66b67d",
+        "name": "Damon Baxter",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "352d3b02-fe8d-4aff-9c15-99db46dd70c9",
+        "name": "Kimora Lester",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "cc01aa00-3b3c-4ef1-b84d-5d3536087ab0",
+        "name": "Lara Wilcox",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "525aef49-e515-49ba-ad79-44196f4107d9",
+        "name": "Lee Hogan",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "abd9eae5-9100-46fe-8699-05e4a91ece48",
+        "name": "Jerry Pacheco",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "2e9f8c3f-c887-4c72-81c1-3f162a067863",
+        "name": "Paris Villegas",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "baffe3e2-d895-40ab-92bf-20320d32d5b7",
+        "name": "Clyde Deleon",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "e92a20ca-2609-40c1-b0a4-8b7a53e7e119",
+        "name": "Gabrielle Donovan",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "b76bf344-ebab-49d7-9a76-8af31308e6fc",
+        "name": "Brayan Mays",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "c1b6e7ca-f831-4a89-aec8-711573c7bea6",
+        "name": "Denisse Strong",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "f94cfbe7-0df7-4a8f-8136-6862d48e8c6e",
+        "name": "Emely Love",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "5a63affc-68d1-477f-9ae9-51e548a4f0e0",
+        "name": "Axl Tang",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "b37ac8ce-d034-433e-bd54-80ee5ad1d49d",
+        "name": "Jeffrey Vu",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "0c26e988-ff75-4d38-92e0-f38dee78a5b8",
+        "name": "Belle Copeland",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "29fb803b-7d70-46db-8674-770948481d97",
+        "name": "Axton Camacho",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "ae263941-e062-4bdb-9cf5-e1f87c9c4f36",
+        "name": "Armani Juarez",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "9e2da444-56e3-4d34-be05-d5cce4385245",
+        "name": "Joaquin Novak",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "2ebcd130-ade2-4b72-95f8-2f8d4fc713f1",
+        "name": "Kamari Medrano",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "e08c3957-7f4e-46f2-afe6-043d11234974",
+        "name": "Kaiya Peck",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "8e555e2d-b9a6-4223-a8a1-b5c881b34cdd",
+        "name": "Yousef Schaefer",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "b805b3cd-1ff2-4e1c-93a0-31148bfb8151",
+        "name": "Mavis Rowe",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "b5cc5262-2d5c-4e1a-ad1a-6977296ab3d6",
+        "name": "Kamden Brooks",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "fac6760b-f1c8-415f-b67e-a4ad4d43a190",
+        "name": "Autumn Miranda",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "ad850874-0b04-4556-a33c-1ca3fa7fe2fa",
+        "name": "Kathryn Cervantes",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "f28d0535-7162-4fe8-a26b-5499fe3adae3",
+        "name": "Rory Arnold",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "7a97d3bf-c022-474a-a610-97a61de1ab5e",
+        "name": "Finley Hanna",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "3178789b-c840-457e-8640-7443631ed497",
+        "name": "Halle Blackburn",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "eacd6d4c-e812-477d-86ff-41a279004c3e",
+        "name": "Aydin Galvan",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "05a08929-c9d8-446b-a29d-162fa9eb5584",
+        "name": "Dallas Prince",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "1f363ae8-5ad6-4df2-9c77-76ea910bf2ae",
+        "name": "Aron Delgado",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "1e043b2f-38c3-4b2f-a8a0-e0ddcdf34555",
+        "name": "Alani Shields",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "c5a6b74b-7d7f-44b6-9032-5166d2909105",
+        "name": "Devon Weaver",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "60956f32-3dd9-49c5-b6db-8d72cc2fba6e",
+        "name": "Teagan Blankenship",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "e5305dde-5cdb-45b7-a55c-f487eb8b4fd2",
+        "name": "Ernesto Wise",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "c81acb08-a60a-4003-885f-52cfd742808e",
+        "name": "Mira Lee",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "9d50321f-c2bb-465c-ba50-b062f6c960b6",
+        "name": "Jack Robinson",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "37196307-b158-4c9e-bd07-677f9525a54c",
+        "name": "Nora Salazar",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "c42e7e56-782d-48b6-a5da-c41a7fc5055e",
+        "name": "Brody Wyatt",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "005c86af-bf83-4a4f-918c-13bda2814ac2",
+        "name": "Liberty Murphy",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "f1196f41-0d31-404b-8f39-c2874a0455a6",
+        "name": "Cameron Waller",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "723bacb5-e2af-4fe1-b2d1-92613052c827",
+        "name": "Whitley Butler",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "29ca7de7-49b1-4e22-8196-e171852c3126",
+        "name": "Ryder Blevins",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "541503bc-722f-4c52-b291-877850f72acf",
+        "name": "Aila Zavala",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "0bdcb0d5-e15f-45ec-ae3f-ed6ffba1454f",
+        "name": "Dillon McDowell",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "37d24138-f1fe-4644-85cd-3d4608d29f68",
+        "name": "Rayna Weber",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "c88f93b9-ab0d-4f79-95fa-4e7dce8354ef",
+        "name": "Crew Oliver",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "080fd126-ff65-4690-97c8-d25d2695364c",
+        "name": "Camille Briggs",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "9229c102-137d-4bfb-bc19-2ceb1e6c922c",
+        "name": "Case Weber",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "b2e8ee7f-6fcd-4a09-81d2-e2c58f506706",
+        "name": "Alayah Bailey",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "d6682d1a-f4bf-4385-9c71-6ab77223ec9a",
+        "name": "Axel Wells",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "b476a3d6-8d8f-4dd4-ad82-fa33b83d9ecf",
+        "name": "Cecilia Woodard",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "9fb180d5-2d7b-4d71-ad81-3a6f8b54b531",
+        "name": "Westley James",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "abc9c4ca-7e01-4b19-a1c2-eefd49715c67",
+        "name": "Quinn Wilson",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "912c9369-7cd7-47a9-88cb-c0ee3c3dde0d",
+        "name": "Daniel Chang",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "35acbf54-af29-426a-84b2-10df5b9770bc",
+        "name": "Ophelia Gates",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "362e96c8-a929-4863-8591-9338ed4464bc",
+        "name": "Ermias Hall",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "118f99c2-1da9-4042-8818-c591dbf75aa5",
+        "name": "Leah Dickson",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "77ef196f-d482-4366-95da-cd63aa237cdd",
+        "name": "Maxton Charles",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "7c3f34f8-8726-406e-9270-f9e23c2e797e",
+        "name": "Jenna Rowland",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "197dc487-0661-4504-8b3e-2a4560949133",
+        "name": "Eliezer Barry",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "6e012f58-68c6-43fc-9de4-cfd8f94fbd84",
+        "name": "Waverly Orr",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "63837c37-02f0-472c-b525-22cf86e338f6",
+        "name": "Benicio Benjamin",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "bc2ef5e6-23e8-459c-a388-71f7a231cf35",
+        "name": "Jianna Clayton",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "2fbcba7d-34bf-4854-8bc8-1c260975e70f",
+        "name": "Boston Church",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "a7e47031-d866-4189-aa79-cb1b56263fe7",
+        "name": "Ayleen Patel",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "888b3c58-1733-431b-954c-1e6e206adacc",
+        "name": "Parker Dunlap",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "ba948fc4-dcff-4859-a0de-eefa4a064de3",
+        "name": "Iliana Felix",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "b482511a-8ae3-4163-940d-b90f74cba6ec",
+        "name": "Rodney Buchanan",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "edf1e16b-0fa6-400d-9e8d-1368f503e12a",
+        "name": "Maryam Hester",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "ebcbd0c0-5ac0-4407-adf3-9a411bd5a374",
+        "name": "Rene Myers",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "94ef462f-9877-47ef-b6e8-f735646f05e6",
+        "name": "Lydia Welch",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "4f94e214-f38f-488a-be08-3ee670df0666",
+        "name": "Hendrix Warren",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "48f01bba-0bf3-45a1-bffe-636af27a8712",
+        "name": "Sloane Foley",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "c6ad6a07-1e7c-4d9f-93c8-2108ddf3d134",
+        "name": "Mohammad Quintana",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "a3e741b2-b8d2-43ea-b818-2ae8b3e1a8e4",
+        "name": "Kenia Morse",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "49880b50-fe59-454f-91ba-11b4f1b1adcc",
+        "name": "Bode Patel",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "24ea4f0d-3f12-468a-a623-43d3d3f9f1b7",
+        "name": "Madeline Weber",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    },
+    {
+        "id": "7510e1a8-10e1-4d39-9f13-684bbd1c3afa",
+        "name": "Crew Patton",
+        "avatar": "https://avatar.iran.liara.run/public",
+        "eloRating": 1000,
+        "matchesId": [],
+        "KDA": 0,
+        "winRate": 0
+    }
+]

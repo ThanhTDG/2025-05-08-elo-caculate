@@ -997,17 +997,20 @@ const name = `const nameList = [Jaylee Barber
     Aubriella Rasmussen
     Will Reyna
     Luella Vargas
-    Ryker Gordon]`
-// write to json file 
-const nameListArray = name.split('\n').map((name, index) => {
-	return name.trim().replace(/[\[\]']+/g, '').replace(/,/g, '');
+    Ryker Gordon]`;
+// write to json file
+const nameListArray = name.split("\n").map((name, index) => {
+	return name
+		.trim()
+		.replace(/[\[\]']+/g, "")
+		.replace(/,/g, "");
 });
-const fs = require('fs');
+const fs = require("fs");
 const jsonData = JSON.stringify(nameListArray, null, 2);
-fs.writeFileSync('nameList.json', jsonData, 'utf8', (err) => {
+fs.writeFileSync("nameList.json", jsonData, "utf8", (err) => {
 	if (err) {
-		console.error('Error writing to file', err);
+		console.error("Error writing to file", err);
 	} else {
-		console.log('JSON data is saved.');
+		console.log("JSON data is saved.");
 	}
 });
