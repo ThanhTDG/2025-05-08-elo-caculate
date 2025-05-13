@@ -161,10 +161,12 @@ const delta =
 - **ExpectedScore**: Tỷ lệ chiến thắng lý thuyết dựa trên sự khác biệt Elo.
 
 ### **Các yếu tố ảnh hưởng**:
-
 - **Các trận đấu trước(~100)**:
 - **Win Factor**: Giá trị 1 cho đội thắng, -1 cho đội thua.
 - **Performance Ratio**: Hiệu suất của người chơi so với trung bình.
 - **Difficulty Factor**: Độ khó của trận đấu dựa trên Elo trung bình của lobby.
 - **MVP Factor**: Người chơi MVP được cộng thêm điểm.
 - **Adjustment Factor**: Điều chỉnh nếu Elo của người chơi cao hơn hoặc thấp hơn so với trung bình.
+
+###  
+- Thuật toán chưa tối ưu tính toán chưa tối ưu việc tính lại toàn bộ dựa trên 100 trận gần nhất
