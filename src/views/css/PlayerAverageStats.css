@@ -1,0 +1,58 @@
+/* Container chính */
+.player-average-stats-card {
+    background-color: #3b4252; 
+    color: #eceff4;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    max-width: 700px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid #4c566a;
+    padding: 10px;
+}
+
+.player-average-stats-title {
+    color: #88c0d0; 
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+    border-bottom: 1px solid #4c566a;
+    padding-bottom: 10px;
+}
+
+.player-average-stats-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.player-average-stats-list li {
+    display: flex;
+    justify-content: space-between; 
+    padding: 10px 0;
+    border-bottom: 1px solid #4c566a;
+    font-size: 1rem;
+}
+
+.player-average-stats-list li:last-child {
+    border-bottom: none;
+}
+
+.player-average-stats-list li span:first-child {
+    font-weight: bold;
+    color: #81a1c1;
+}
+
+.player-average-stats-list li span:last-child {
+    color: #eceff4;
+    text-align: right;
+    font-weight: 500;
+}
+
+.player-average-stats-no-data {
+    text-align: center;
+    color: #bf616a; 
+    font-style: italic;
+    padding: 20px;
+    background-color: #3b4252; 
+    border-radius: 8px;
+}

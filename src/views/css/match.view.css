@@ -1,0 +1,155 @@
+/* Tổng quan */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1a1a2e; 
+    color: #e0e0e0;
+}
+
+.match-view-container {
+    padding: 20px;
+    max-width: 86%;
+    margin: 20px auto;
+    background-color: #23233b; 
+    border-radius: 12px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+.match-view-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #88c0d0; 
+    text-shadow: 0 0 10px rgba(136, 160, 255, 0.5);
+}
+
+.match-info-card {
+    background-color: #2c2c44;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    border: 1px solid #3a3a5a;
+}
+
+.match-info-header {
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #b3c3ff;
+    border-bottom: 1px solid #4a4a6a;
+    padding-bottom: 10px;
+}
+
+.match-info-grid p {
+    margin: 10px 0;
+    font-size: 1rem;
+}
+
+.match-info-grid p > strong {
+    color: #8c9eff;
+    margin-right: 8px;
+}
+
+.winning-team-id {
+    font-weight: 700;
+    color: #50fa7b;
+    background-color: rgba(80, 250, 123, 0.1);
+    padding: 3px 8px;
+    border-radius: 4px;
+}
+
+.mvp-player-id {
+    font-weight: 700;
+    color: #ffb86c;
+    background-color: rgba(255, 184, 108, 0.1);
+    padding: 3px 8px;
+    border-radius: 4px;
+}
+
+.teams-section-title {
+    font-size: 1.8rem;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #b3c3ff;
+}
+
+.team-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #d08770;
+}
+
+.team-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background-color: #2e3440;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.team-table td {
+    min-width: 60px;
+    padding: 12px 10px;
+    text-align: center;
+    border: 1px solid #565b65;
+}
+
+.team-table th {
+    padding: 10px 0px;
+    background-color: #4c566a;
+    color: #eceff4; 
+    font-weight: bold;
+    text-transform: uppercase; 
+}
+
+ .winner th {
+     padding: 6px 0px;
+    background-color: #515000; 
+    border: 1px solid #8a8800; 
+    color: #ffffff;
+}
+
+.lose th {
+    padding: 6px 0px;
+    background-color: #4f0000;
+    border: 1px solid #8a0000;
+    color: #ffffff; 
+}
+
+.player-row-mvp {
+    background-color: #a3be8c;
+    color: #2e3440;
+    font-weight: bold;
+}
+
+.mvp-badge {
+    background-color: #ebcb8b;
+    color: #2e3440;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    margin-left: 5px;
+}
+
+.team-totals-row {
+    background-color: #4c566a;
+    color: #eceff4;
+    font-weight: bold;
+    
+}
+.player-row {
+    background-color: #2e3440;
+    color: #eceff4; 
+    transition: background-color 0.3s ease;
+}
+
+
+.team-table td:first-child {
+    text-align: left; 
+    padding-left: 10px; 
+}
